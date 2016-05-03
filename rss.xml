@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Human Cognitive Enhancement]]></title>
+        <description><![CDATA[Human Cognitive Enhancement]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 03 May 2016 08:40:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Naturalness in Human Cognitive Enhancement (HCENAT) project]]></title>
+            <description><![CDATA[<article><h1>The Naturalness in Human Cognitive Enhancement (HCENAT) project</h1><p>The Naturalness in Human Cognitive Enhancement (HCENAT) project comprises a new international research partnership in the field of Human Cognitive Enhancement (HCE), with the objective of providing clear and accessible HCE-related analysis, guidelines and directions for policymakers, stakeholders, engineers and consumers.</p></article>]]></description>
+            <link>undefinedthe-naturalness-in-human-cognitive-enhancement-hcenat-proj/index.html</link>
+            <guid isPermaLink="false">e6ea7593-70b5-45e7-831a-e2f4c42a11ab</guid>
+            <pubDate>Tue, 03 May 2016 08:40:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
