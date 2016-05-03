@@ -1,6 +1,6 @@
 name: Human Cognitive Enhancement
 favicon: null
-layout_spectrum: 0.99235
+layout_spectrum: 0
 typography_spectrum: 0.85559
 title: Human Cognitive Enhancement
 cta:
@@ -22,7 +22,7 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.3583730664104223
   saturation: 0.47380002052523196
   rhythmicContrast: 0.4493691709358245
